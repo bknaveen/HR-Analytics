@@ -74,5 +74,5 @@ Through this project, I improved my skills in:
 
 ## 🤝 Connect
 Have feedback or want to collaborate? Reach out to me on:
-- **LinkedIn**: [Nabin BK](https://www.linkedin.com/in/nabin-bk/)
+- **LinkedIn**: [Nabin BK]([https://www.linkedin.com/in/nabin-bk/](https://www.linkedin.com/in/nabin-bk-0101681a7/))
 - **GitHub**: [bknaveen](https://github.com/bknaveen)
